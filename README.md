@@ -48,4 +48,4 @@ In the following files, you can explore various additional C# concepts and featu
 2. Navigate to the desired file or directory.
 3. Compile the C# file using a C# compiler or IDE like Visual Studio.
    ```bash
-   csc filename.cs
+   dotnet run filename
